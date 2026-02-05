@@ -81,5 +81,6 @@ Accuracy can be further improved by:
 ---
 
 ## 📌 Author
-**Your Name Here**
+Karthik Tunuguntla
+
 
